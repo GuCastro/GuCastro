@@ -1,6 +1,6 @@
 ### Olá! Sou o Gustavo Castro
 
-- 💻 Estou aprendendo Python e JavaScript
+- 💻 Estou aprendendo JavaScript, HTML e CSS
 
  <div>
   <a href="https://github.com/GuCastro">
